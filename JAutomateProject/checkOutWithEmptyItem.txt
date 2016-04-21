@@ -1,0 +1,7 @@
+
+StartWeb "http://store.demoqa.com"
+Click "{ImageFolder}/14607261947330.png" 147 69 81 46
+
+
+
+Click "{ImageFolder}/14607814308319.png" 186 87 25 26

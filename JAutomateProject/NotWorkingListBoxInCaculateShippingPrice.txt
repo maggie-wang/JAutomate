@@ -1,0 +1,19 @@
+StartWeb "http://store.demoqa.com"
+
+Click "{ImageFolder}/14607809459721.png" 184 87 32 23
+Click "{ImageFolder}/14607809460472.png" 179 92 88 23
+Click "{ImageFolder}/14607809461183.png" 109 87 97 32
+DragStart "{ImageFolder}/14607809461664.png" 35 122 116 31
+DragDrop "{ImageFolder}/14607809462355.png" 71 81 153 41
+Click "{ImageFolder}/14607809463186.png" 105 73 122 35
+WaitMouseMove "{ImageFolder}/14607809463987.png" 198 90 65 27
+Click "{ImageFolder}/14607809464488.png" 155 81 75 28
+Click "{ImageFolder}/14607809464999.png" 63 91 139 20
+Click "{ImageFolder}/146078094655410.png" 73 109 59 20
+Click "{ImageFolder}/14607814306785.png" 234 75 24 16
+Click "{ImageFolder}/14607814307136.png" 187 84 21 21
+Click "{ImageFolder}/14607814307567.png" 185 97 24 18
+
+Click "{ImageFolder}/14607814308319.png" 186 87 25 26
+
+Click "{ImageFolder}/146078094677614.png" 185 83 30 18

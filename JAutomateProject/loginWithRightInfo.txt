@@ -1,0 +1,12 @@
+StartWeb "http://store.demoqa.com"
+Click "{ImageFolder}/14607521803400.png" 126 71 116 37
+Click "{ImageFolder}/14607521805901.png" 91 85 140 28
+Write "cat"
+Click "{ImageFolder}/14607521807962.png" 64 82 322 102
+Click "{ImageFolder}/14607521809613.png" 101 87 143 27
+Write "be123456"
+Click "{ImageFolder}/14607521811224.png" 150 93 91 36
+StartWeb "http:
+WaitMouseMove "{ImageFolder}/14607526130511.png" 170 85 93 25
+Click "{ImageFolder}/14607526131612.png" 171 91 63 24
+

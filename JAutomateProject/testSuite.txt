@@ -1,0 +1,6 @@
+StopIfFailed No
+Call "C:\Users\cathrine\Desktop\ITHS\testverktyg\labb5\loginWithEmptyIoginInfo.txt" “sensitivity=90&wait=1000”
+Call "C:\Users\cathrine\Desktop\ITHS\testverktyg\labb5\loginWithRightInfo.txt" “sensitivity=90&wait=1000”
+Call "C:\Users\cathrine\Desktop\ITHS\testverktyg\labb5\checkOutWithEmptyItem.txt" “sensitivity=90&wait=1000”
+Call "C:\Users\cathrine\Desktop\ITHS\testverktyg\labb5\NotWorkingListBoxInCaculateShippingPrice.txt" “sensitivity=90&wait=1000”
+Call "C:\Users\cathrine\Desktop\ITHS\testverktyg\labb5\removeBtn.txt"
